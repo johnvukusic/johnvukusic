@@ -31,15 +31,17 @@ Case studies with the full story are on [johnvukusic.com](https://www.johnvukusi
 
 ## Live prototypes
 
-Working prototypes from my current role at Amplify, built in HTML and CSS on the Amplify design system. Shared with permission.
+Working prototypes built in HTML and CSS. Shared with permission.
 
 | Prototype | What it shows |
 | --- | --- |
-| [Investments](https://venerable-sundae-f56fc5.netlify.app) | The Investments area of the advisor platform |
+| [Amplify Investments](https://venerable-sundae-f56fc5.netlify.app) | The Investments area of the advisor platform |
 | [Home, before and after](https://luxury-froyo-8b8d6c.netlify.app) | The platform home page before and after the design system refresh |
 | [Advisor Snapshot scope selector](https://admirable-gelato-c08d20.netlify.app) | Choosing which accounts or households a snapshot covers |
 | [Onboarding](https://jade-pudding-ce868c.netlify.app) | The client onboarding flow |
 | [Mobile profile and account flow](https://vermillion-jelly-a97f3d.netlify.app) | Screen-by-screen walkthrough of the profile and account flow in the mobile app |
+| [Amplify design system reference](https://johnvukusic.github.io/Amplify/) | A single-page reference for the design system |
+| [IBM.com storefront](https://johnvukusic.github.io/VSA/) | A purchase path for IBM software: storefront, catalog, product page, checkout and trial conversion |
 
 ## In this repository
 
