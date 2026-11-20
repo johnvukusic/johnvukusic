@@ -1,49 +1,35 @@
-# Hi there, I'm **John Vukusic!** 👋
+# John Vukusic
 
-## 🚀 **About Me**
-I'm a seasoned **UX leader and designer** with a track record of building, scaling, and managing high-performing teams across major financial institutions and advertising agencies. My work spans **fintech innovations** like *BNY Mellon's Client 360* and *JPMorgan's Client Exchange*, as well as advertising for global brands during my time at *McCann Erickson, JWT*, and *Agency.com*.
+**Design leader for complex financial platforms.** I build design systems, the teams that run them, and the ways of working that let both scale. New York Metro.
 
-🌐 [Visit My Portfolio](https://www.johnvukusic.com)
-
----
-
-## 🛠️ Skills & Expertise
-- 🎨 **UX/UI Design:** Figma, Sketch, InVision, Adobe Creative Suite
-- 🔍 **Research & Strategy:** User interviews, competitive analysis, journey mapping
-- ⚙️ **Prototyping:** Interactive prototypes for web and mobile applications
-- 💻 **Development Collaboration:** HTML/CSS, JavaScript fundamentals, GitHub workflows
-- 🚀 **Project Leadership:** Agile methodologies, cross-functional collaboration, mentoring
+[Portfolio](https://www.johnvukusic.com) · [LinkedIn](https://www.linkedin.com/in/johnvukusic)
 
 ---
 
-## 🌱 Currently Exploring
-- 📱 Modern UX trends in fintech and SaaS platforms
-- ⚙️ Expanding design systems for scalable enterprise applications
-- 🧩 Improving accessibility (a11y) across platforms
+## What I do
 
----
+- **Design systems that teams adopt.** I built BNY Mellon's first unified design system and lead the design system at Amplify, a wealth management platform.
+- **Design that AI tools can read.** I wrote a machine-readable version of our design system so AI tools generate interfaces to our standard, and I prototype in working code instead of static mockups.
+- **Teams built from scratch.** I grew a design organization from 1 person to 33 across six cities in four countries, and I still do the design work myself.
 
-## 💡 Highlighted Projects
-- 🏦 **Client 360** *(BNY Mellon)*: Onboarding transparency for institutional clients
-- 📄 **Document Management** *(JPMorgan)*: Streamlined digital document workflows
-- 🎯 **Healthcare & Tourism Campaigns** *(JWT & McCann Erickson)*: Creative, research-driven marketing
+## Selected work
 
----
+| Where | What | Result |
+| --- | --- | --- |
+| **Amplify** | Head of Design for an advisor platform and client app on web, iOS and Android | One design system across five products; review moved from individual screens to the system |
+| **BNY Mellon** | Rebuilt the client workspace around personas and modular widgets | Adoption from under 5% to over 80% in 12 months |
+| **J.P. Morgan** | Unified five wealth management products under one design system | One coherent platform in place of five separate experiences |
+| **IBM** | Audited 665 products on IBM.com for usability, pricing and purchase flows | Prioritized recommendations and a prototyped purchase path |
 
-## 🏆 Achievements
-- 🚀 Led UX team for BNY Mellon’s digital transformation, streamlining onboarding by **30%**
-- 🤝 Built and retained loyal design teams through mentorship and career development
-- 🎨 Developed advertising and UX strategies for brands like **Sudafed, Desitin**, and **PediaCare**
+Case studies with the full story are on [johnvukusic.com](https://www.johnvukusic.com).
 
----
+## Why a designer has a GitHub
 
-## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnvukusic&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnvukusic&layout=compact&theme=tokyonight)
+I prototype in code. Working prototypes get honest feedback faster than pictures of software, and they hand over to engineering without a translation step. The repositories here are prototypes and experiments, not production code.
 
----
+## Background
 
-## 📬 Let's Connect
-- 🌐 [Website](https://www.johnvukusic.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/johnvukusic)
-- 🐦 [Twitter](https://twitter.com/johnvukusic) 
+- 25 years in design, the last 10 in banking, custody and wealth management
+- Earlier: creative direction at J. Walter Thompson, McCann and Agency.com; Clio Award nominee
+- Guest lecturer at NYU, Syracuse University and General Assembly
+- B.I.D. in Industrial and Interaction Design, Syracuse University; M.Ed., Pace University
