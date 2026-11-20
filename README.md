@@ -6,6 +6,12 @@
 
 ---
 
+## Now
+
+- Leading design at Amplify across the advisor platform and the client app
+- Rolling out one design system across every product, release by release
+- Working out what a design system needs so that AI tools build to it instead of around it
+
 ## What I do
 
 - **Design systems that teams adopt.** I built BNY Mellon's first unified design system and lead the design system at Amplify, a wealth management platform.
@@ -23,9 +29,20 @@
 
 Case studies with the full story are on [johnvukusic.com](https://www.johnvukusic.com).
 
+## In this repository
+
+**[DESIGN.md starter](design-md/)**: a template for writing a design system down in a form AI design and coding tools can follow, with tokens, component rules and a four-level review checklist. Copy it into a project and replace the placeholder values.
+
+## How I work
+
+- **Design:** Figma, every day
+- **Prototyping:** HTML and CSS built with AI assistance, deployed to Netlify for review
+- **AI tools:** Claude, Google Stitch, Magic Patterns
+- **Review:** one weekly governance session against the system, not screen-by-screen approval
+
 ## Why a designer has a GitHub
 
-I prototype in code. Working prototypes get honest feedback faster than pictures of software, and they hand over to engineering without a translation step. The repositories here are prototypes and experiments, not production code.
+I prototype in code. Working prototypes get honest feedback faster than pictures of software, and they hand over to engineering without a translation step. The repositories here are prototypes and experiments, not production code. Working prototypes are available on request.
 
 ## Background
 
