@@ -29,6 +29,18 @@
 
 Case studies with the full story are on [johnvukusic.com](https://www.johnvukusic.com).
 
+## Live prototypes
+
+Working prototypes from my current role at Amplify, built in HTML and CSS on the Amplify design system. Shared with permission.
+
+| Prototype | What it shows |
+| --- | --- |
+| [Investments](https://venerable-sundae-f56fc5.netlify.app) | The Investments area of the advisor platform |
+| [Home, before and after](https://luxury-froyo-8b8d6c.netlify.app) | The platform home page before and after the design system refresh |
+| [Advisor Snapshot scope selector](https://admirable-gelato-c08d20.netlify.app) | Choosing which accounts or households a snapshot covers |
+| [Onboarding](https://jade-pudding-ce868c.netlify.app) | The client onboarding flow |
+| [Mobile profile and account flow](https://vermillion-jelly-a97f3d.netlify.app) | Screen-by-screen walkthrough of the profile and account flow in the mobile app |
+
 ## In this repository
 
 **[DESIGN.md starter](design-md/)**: a template for writing a design system down in a form AI design and coding tools can follow, with tokens, component rules and a four-level review checklist. Copy it into a project and replace the placeholder values.
@@ -42,7 +54,7 @@ Case studies with the full story are on [johnvukusic.com](https://www.johnvukusi
 
 ## Why a designer has a GitHub
 
-I prototype in code. Working prototypes get honest feedback faster than pictures of software, and they hand over to engineering without a translation step. The repositories here are prototypes and experiments, not production code. Working prototypes are available on request.
+I prototype in code. Working prototypes get honest feedback faster than pictures of software, and they hand over to engineering without a translation step. The repositories here are prototypes and experiments, not production code.
 
 ## Background
 
